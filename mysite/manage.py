@@ -3,6 +3,15 @@
 import os
 import sys
 
+"""
+    how to start the virtual enviroment
+    cd into mysite directory
+    source .venv/bin/activate 
+    to start the page use 
+    python manage.py runserver
+
+"""
+
 
 def main():
     """Run administrative tasks."""

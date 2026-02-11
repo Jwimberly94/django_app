@@ -9,6 +9,7 @@ import sys
     source .venv/bin/activate 
     to start the page use 
     python manage.py runserver
+    add/admin to the end of url to enter admin
 
 """
 
